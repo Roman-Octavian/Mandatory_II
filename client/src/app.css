@@ -1,0 +1,11 @@
+body {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: hidden;
+  background: radial-gradient(circle, #1CB5E0 0%, #000851 100%);
+}
